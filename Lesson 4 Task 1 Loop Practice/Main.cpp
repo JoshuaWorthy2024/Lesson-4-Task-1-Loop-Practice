@@ -50,4 +50,6 @@ int main() {
 			cout << number * i << ", ";
 		}
 	}
+
+	return 0;
 }
